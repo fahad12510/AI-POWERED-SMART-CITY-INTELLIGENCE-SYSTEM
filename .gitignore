@@ -1,0 +1,10 @@
+# Secrets and environments
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+# Uploaded data and generated reports
+data/current_city_data.csv
+generated_reports/*
+!generated_reports/.gitkeep

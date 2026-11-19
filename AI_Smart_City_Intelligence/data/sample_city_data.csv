@@ -1,0 +1,29 @@
+location,day,traffic,aqi
+Saddar,1,1200,95
+Saddar,2,1350,105
+Saddar,3,1280,110
+Saddar,4,1500,125
+Saddar,5,1420,118
+Saddar,6,1600,130
+Saddar,7,1550,120
+Commercial Market,1,950,80
+Commercial Market,2,1020,85
+Commercial Market,3,1100,90
+Commercial Market,4,980,88
+Commercial Market,5,1250,92
+Commercial Market,6,1180,98
+Commercial Market,7,1300,100
+Murree Road,1,1800,130
+Murree Road,2,1950,145
+Murree Road,3,2100,155
+Murree Road,4,2050,160
+Murree Road,5,2200,170
+Murree Road,6,2300,180
+Murree Road,7,2250,175
+Satellite Town,1,700,65
+Satellite Town,2,760,70
+Satellite Town,3,820,72
+Satellite Town,4,790,75
+Satellite Town,5,850,78
+Satellite Town,6,900,80
+Satellite Town,7,880,76

@@ -1,0 +1,12 @@
+:root{--green:#174c38;--light:#eaf4ee;--ink:#20342b}
+body{background:#f3f7f4;color:var(--ink);font-family:Inter,system-ui,Arial,sans-serif}
+.navbar{background:var(--green)}h1{font-weight:750;color:var(--green)}
+.muted{color:#68796f}.panel{background:white;border:1px solid #e1ebe4;border-radius:16px;padding:22px;height:100%;box-shadow:0 5px 20px rgba(24,70,48,.05)}
+.panel h5{font-weight:700;color:var(--green);margin-bottom:18px}
+.stat{background:white;border:1px solid #e1ebe4;border-radius:14px;padding:18px;height:100%}
+.stat .value{font-size:1.65rem;font-weight:750;color:var(--green)}
+.stat .label{font-size:.85rem;color:#718077}
+.result{white-space:pre-wrap;line-height:1.6;min-height:24px}
+canvas{max-height:280px}
+.btn-success{background:var(--green);border-color:var(--green)}
+.btn-success:hover{background:#23684b;border-color:#23684b}
